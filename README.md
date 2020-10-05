@@ -13,8 +13,8 @@ Para poder ejecutar el código e interactuar con el programa es necesario copiar
 
 ## Instrucciones
 Una vez ejecutado el juego, el usuario aparecera en la pantalla de inicio donde tendra la opción de revisar los controles y de iniciar el juego. De esta manera, una vez el usuario haya iniciado a jugar,
-debe conseguir la mayor cantidad de puntos posibles eliminando la mayor cantidad de filas mientras sube de nivel al cabo de cierto condición (150 puntos para subir de nivel, 10 puntos por cada ficha ubicada y 50 puntos por cada fila eliminada). Así mismo, cada nivel representa una mayor dificultad 
-ya que las figuras iran bajando a mayor velocidad y dejaran al usuario menor tiempo para pensar donde ubicarlas. Además, el usuario podrá ver la siguiente figura a ubicar en la parte superior derecha de la ventana.
+debe conseguir la mayor cantidad de puntos posibles eliminando la mayor cantidad de filas mientras sube de nivel al cabo de cierta condición (150 puntos para subir de nivel, 10 puntos por cada ficha ubicada y 50 puntos por cada fila eliminada). Así mismo, cada nivel representa una mayor dificultad 
+ya que las figuras irán bajando a mayor velocidad y dejaran al usuario menor tiempo para pensar donde ubicarlas. Además, el usuario podrá ver la siguiente figura a ubicar en la parte superior derecha de la ventana.
 
 Una vez terminado el jugador haya alcanzado la cima de la cuadricula, el juego terminará y le dara sus respectivos resultados (Puntuación Total, Lineas eliminadas y nivel alcanzado).
 
