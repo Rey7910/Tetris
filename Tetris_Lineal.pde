@@ -259,13 +259,13 @@ void bajar(int v){ // Funcion para bajar la figura de manera automatica
             }
         }else if(crot % 4 == 2){
             for(int i =0;i<4;i++){
-               rotar[i][0] =-oF[i][0]-figura[1][0];
-               rotar[i][1] = oF[i][1] -figura[1][1] ;
+               rotar[i][0] =-oF[i][1]-figura[1][0];
+               rotar[i][1] = oF[i][0] -figura[1][1] ;
             }
         }else if(crot % 4 == 3){
             for(int i =0;i<4;i++){
-               rotar[i][0] = oF[i][1]-figura[1][0];
-               rotar[i][1] = oF[i][0] -figura[1][1] ;
+               rotar[i][0] = oF[i][0]-figura[1][0];
+               rotar[i][1] = oF[i][1] -figura[1][1] ;
             } 
         }
         figura = rotar;
