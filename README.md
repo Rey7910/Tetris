@@ -19,10 +19,10 @@ ya que las figuras irán bajando a mayor velocidad y dejaran al usuario menor ti
 Una vez terminado el jugador haya alcanzado la cima de la cuadricula, el juego terminará y le dara sus respectivos resultados (Puntuación Total, Lineas eliminadas y nivel alcanzado).
 
 ## Contribuciones
-Las pull request son bienvendias mientras sean para mejorar el juego con la única condición de que no se usen clases y objetos. Para que de esta manera se mantenga
+Los pull request son bienvendias mientras sean para mejorar el juego con la única condición de que no se usen clases y objetos. Para que de esta manera se mantenga
 la esencia del mismo.
 En todo los casos, asegurarse de que cualquier modificación a requerir sea apropiada.
 
 
 ## Desarrollador
-El juego fue desarrollado por Reinaldo Toledo, estudiante de Ingeniería de Sistemas y Computación de la Universidad Nacional de Colombia para el curso de Programación Orientada a Objetos.
+El juego fue desarrollado por Reinaldo Toledo, estudiante de Ingeniería de Sistemas y Computación de la Universidad Nacional de Colombia para el curso de Programación Orientada a Objetos en el mes de octubre de 2020.
